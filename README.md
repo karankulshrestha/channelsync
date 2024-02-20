@@ -126,29 +126,6 @@ Run the slack app
 
 **Development:** Python, FastAPI, Slack Sdk, Block-Kit, MongoDB, Gemini
 
-
-## Atlan Product Operations AI Challenge
-
-As part of our interview structure, we require candidates to work on a small case assignment, which helps us understand a bit more about the problem-solving approach and structure.
-
-This assignment is designed to also give you a small sneak-peek into the kind of problems the team tackles for the business.
-
-This task should take not more than a few hours.
-
-### Summary
-
-The Product Management team is trying to improve two sets of communications with internal stakeholders:
-
-1. How sales, customer support, marketing and other go-to-market functions in the company surface signals to the product team about what is important to build in the product. (These may range from specific asks from existing customers to general ideas they are hearing in the industry).
-2. How sales, customer support, marketing and other go-to-market functions in the company learn about what features are going to be built before they have been released so they know both the roadmap and have enough expertise on the feature to describe it to customers, prospects and partners.
-
-The current communications for these needs are informal (often via Slack), hindered by a global team with time zone differences (who can’t always meet at the same time) and rapidly changing priorities.
-
-**Create a proposal for how to leverage Gen AI to improve one or both of these communications.**
-
-Your implementation can vary. 
-
-For example, it could be a Product Requirements Document (PRD) or architectural diagram for a small piece piece of software (perhaps a browser extension, Slack integration or similar). It could be a screen capture or walkthrough of a no-code Gen AI solution (such as with Relevance AI) with a sample use case. Or it could be pseudo code or sample code snippets for an actual application.
 ## Authors
 
 - [@karankulshrestha](https://www.github.com/karankulshrestha)
